@@ -94,7 +94,7 @@ if (useRoxygen) {
 							 params,
 							 "#' @return [value]",
 							 "#' @details [fill in details here]",
-							 "#' @examples none",
+							 "#' @examples # none",
 							 "#' @export"), 
 							 funcList[[i]])
 	}
